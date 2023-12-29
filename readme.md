@@ -42,6 +42,7 @@ It is better to pick a synonym for the new command than include the old one.
 ### Use verbs are prefaces
 I use the verb `insert` in front of the name for the computer code or equation that I want to insert.
 I use the verb `expand` to expand acronyms.
+I use `url` to insert a URL.
 
 ## Status
 Ready to use but still under development.
