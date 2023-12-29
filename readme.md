@@ -7,7 +7,7 @@ These commands can be used in the text area of most websites opened in Google Ch
 They can be used during dictation of manuscripts about artificial intelligence.
 This topic includes inside its envelope the topics of machine learning and deep learning.
 Some of the commands including equations that are represented as LaTeX math.
-These short snippets of \LaTeX are recognized and rendered correctly by most markdown type setting languages, including org-mode--an enhanced form of Markdown that is best used from inside Emacs.
+These short snippets of LaTeX are recognized and rendered correctly by most markdown type setting languages, including org-mode--an enhanced form of Markdown that is best used from inside Emacs.
 
 ## Usage
 After the commands have been uploaded, you can utilize them immediately.
