@@ -61,3 +61,4 @@ expand E2E learning,end-to-end learning
 expand TF,term frequency
 expand IDF,Inverse Document Frequency
 expand DAG,Directed Acyclic Graph
+a cyclic digraph,acyclic digraph
