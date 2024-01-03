@@ -63,3 +63,4 @@ expand IDF,Inverse Document Frequency
 expand DAG,Directed Acyclic Graph
 a cyclic digraph,acyclic digraph
 exapnd AGI,Artificial General Intelligence 
+url for Conference on Neural Information Processing Systems,\url{https://neurips.cc/}
