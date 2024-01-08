@@ -1,66 +1,95 @@
-expand LLM,Large Language Model
-expand ML,machine learning
-expand NLP,natural language processing
+a cyclic digraph,acyclic digraph
+expand AE,autoencoder
+expand AFE,advanced front-end
+expand AGI,Artificial General Intelligence
+expand AIR,acoustic impulse response
+expand ALSD,average localized synchrony detection
 expand ANN,artificial neuarl networks
+expand AUC,are under curve
+expand BFE,Bayesian Feature Enhancement
+expand BFE,Bayesian Prediction Classification
+expand BO,Bayesian Optimization
+expand CAT,cluster adaptive clustering
+expand CDF,cumulative distribution function
+expand CMLLR,constrained maximum likelihood linear regression
+expand CNF,conjunctive normal form
+expand CNN,convolutional neural network
+expand CTF,convolutive transfer function
+expand CV,cross-validation
+expand DAG,Directed Acyclic Graph
+expand DBN,deep belief net
+expand DBSCAN,density-based spatial clustering of applications with noise
+expand DCMM,deep convolutional neural network
+expand DNF,disjunctive normal form
+expand DNN,Deep Neural Networks
+expand DTNN,deep tensor neural networks 
+expand E2E learning,end-to-end learning
+expand ECRAM,Electro-Chemical Random Access Memory
+expand ELKI,Environment for Developing KDD-Applications Supported by Index-Structures
+expand EM, Expectation Maximization
+expand ERM,empirical risk minimization
+expand FNN,Feedforward Neural Network
+expand FT,Feature Transform
+expand GADF,Gramian Angular Difference Field
+expand GAN,generative adversial network
+expand GMM, Gaussian Mixture Model
+expand GMM,Gaussian Mixture Model
 expand GPT-3,Generative Pre-trained Transformer-3
 expand GPT-4,Generative Pre-trained Transformer-4
-expand GAN,generative adversial network
-expand SOM,self-organizing map
-expand SFOM,self-organizing feature map
-expand CNN,convolutional neural network
-expand SNN,spiking neural network
-expand LSTM,long short-term memory
-expand FNN,feedforward neural network
-expand RBM,Restricted Boltzmann Machine
-expand ECRAM,Electro-Chemical Random Access Memory
-expand RNN,recurrent neural network
-expand NVM,non-volatile memory
-expand MLC,multiple-levels per cell
-expand SL,supervised learning
-expand ERM,empirical risk minimization
-expand SRM,structural risk minimization
-expand MLOSS,Machine Learning Open Source Software
-url for MLOSS,\url{https://mloss.org/about/}
-expand OCR,optical character recognition
-expand PAC,Probably Approximately Correct
-expand DNF,disjunctive normal form
-exapnd CNF,conjunctive normal form
-expand VC-dimension,Vapnik-Chervonenkis dimension).
-expand CV,cross-validation
-expand NP,nondeterministic polynomial time
-expand RBF,radial basis function
-expand RWM,Randomized-Weighted-Majority
-expand SVM,support vector machine
-expand SGD,stochastic gradient descent
-expand PDP,Parallel Distributed Processing
 expand GPU,Graphics Processing Unit
-expand GADF,Gramian Angular Difference Field
-expand DBSCAN,density-based spatial clustering of applications with noise
+expand GRU,gated recurrent unit
+expand HEQ, histogram equalization
+expand HMM,Hidden Markov Model
+expand IDF,Inverse Document Frequency
+expand Kullback-Leibler Divergence
+expand LCMV,linearly constrained minimum variance
+expand LLM,Large Language Model
+expand LMS,least mean square
 expand LOF,local outlier factor
-expand ELKI,Environment for Developing KDD-Applications Supported by Index-Structures
-expand ROC curve,receiver operating characteristic curve
-expand TOC curve,total operating characteristic curve
-expand AUC,are under curve
-expand MLP,mutlilayer perceptron
-expand ReLU,rectified linear unit
-expand RMSprop,root mean square propagation
-expand WSL,Windows Subsystem for Linux
-expand NTM,Neural Turing Machine
-expand OED,Optimal Experimental Design
+expand LSTM,long short-term memory
+expand MAP,maximum a posterior
+expand MAPLR,maximum a posterior linear regression
+expand MC,Monte Carlo
+expand MCE,Minimum Classification Error
 expand MCTS,Monte Carlo tree search
-exapnd BO,Bayesian Optimization
+expand ML,machine learning
+expand MLC,multiple-levels per cell
 expand MLNN,message passing neural networks
-expand DTNN,deep tensor neural networks 
-expand DCMM,deep convolutional neural network
+expand MLOSS,Machine Learning Open Source Software
+expand MLP,mutlilayer perceptron
+expand MLLR,Maximum Likelihood Linear Regression
+expand MMSE,minimum mean square error
+expand MSE,mean square error
+expand MWE,mean word error
+expand NLP,natural language processing
+expand NP,nondeterministic polynomial time
+expand NTM,Neural Turing Machine
+expand NVM,non-volatile memory
+expand OCR,optical character recognition
+expand OED,Optimal Experimental Design
+expand PAC,Probably Approximately Correct
+expand PDP,Parallel Distributed Processing
+expand RBF,Radial Basis Function
+expand RBM,Restricted Boltzmann Machine
+expand ReLU,rectified linear unit
+expand RL,Reinforcement Learning
+expand RMSprop,root mean square propagation
+expand RNN,recurrent neural network
+expand ROC curve,receiver operating characteristic curve
+expand RWM,Randomized-Weighted-Majority
+expand SFOM,self-organizing feature map
+expand SGD,stochastic gradient descent
+expand SL,supervised learning
+expand SNN,spiking neural network
+expand SOM,self-organizing map
+expand SRM,structural risk minimization
+expand SVM,support vector machine
+expand TF,term frequency
+expand TOC curve,total operating characteristic curve
 expand UAT,Universal Approximation Theorem
 expand VAE,variational autoencoders
-expand GRU,gated recurrent unit 
-expand RL,Reinforcement Learning
-expand MSE,mean square error
-expand E2E learning,end-to-end learning
-expand TF,term frequency
-expand IDF,Inverse Document Frequency
-expand DAG,Directed Acyclic Graph
-a cyclic digraph,acyclic digraph
-exapnd AGI,Artificial General Intelligence 
+expand VC-dimension,Vapnik-Chervonenkis dimension).
+expand WSL,Windows Subsystem for Linux
 url for Conference on Neural Information Processing Systems,\url{https://neurips.cc/}
+url for MLOSS,\url{https://mloss.org/about/}
+
