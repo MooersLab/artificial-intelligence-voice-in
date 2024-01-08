@@ -11,6 +11,7 @@ expand BFE,Bayesian Prediction Classification
 expand BO,Bayesian Optimization
 expand CAT,cluster adaptive clustering
 expand CDF,cumulative distribution function
+expand CD-DNN-HMM,Context-Dependent Deep Neural Network Hidden Markov Model
 expand CMLLR,constrained maximum likelihood linear regression
 expand CNF,conjunctive normal form
 expand CNN,convolutional neural network
@@ -34,6 +35,7 @@ expand GADF,Gramian Angular Difference Field
 expand GAN,generative adversial network
 expand GMM, Gaussian Mixture Model
 expand GMM,Gaussian Mixture Model
+expand GMM-HHMs,Gaussian Mixture Model Hidden Markov Model
 expand GPT-3,Generative Pre-trained Transformer-3
 expand GPT-4,Generative Pre-trained Transformer-4
 expand GPU,Graphics Processing Unit
