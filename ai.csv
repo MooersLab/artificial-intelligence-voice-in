@@ -249,3 +249,25 @@ expand VTS,Vector Taylor series
 expand WDAS,Weighted Delay-And-Sum
 expand WFST,Weighted Finite State Transducer
 expand WPE,Weighted Prediction Error
+expand BN,Bayesian Network
+expand CPT,Conditional Probability Table
+expand I-map,Independence-map
+expand D-map,Dependence-map
+expand LS,Logic Sampling
+expand LW,Likelihood Weighting
+expand MPE,Most Probable Explanation
+expand EU,Expected Utility
+expand EB,Expected Benefit
+expand DBN,Dynamic Bayesian Network
+expand DDN,Dynamic Decision Network
+expand BPP,Bayesian Poker Player
+expand EW,Expected Winnings
+expand NAG,Nice Argument Generator
+expand MML,Minimum Message Length
+expand MDL,Minimum Description Length
+expand TOM,Totally Ordered Model
+expand GA,Genetic Algorithm
+expand KEBN,Knowledge Engineering with Bayesian Networks
+expand QPN,Qualitative Probabilistic Networks
+expand OOBN,Object-Oriented Bayesian Networks
+expand ITS,Intelligent Tutoring System
