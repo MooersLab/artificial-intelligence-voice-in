@@ -97,3 +97,67 @@ url for MLOSS,\url{https://mloss.org/about/}
 url for whisper,\url{https://github.com/openai/whisper}
 expand OCR,Optical Character Recognition
 expand DSL,Domain Specific Language
+expand AM,Acoustic Model
+expand ANN,Artificial Neural Network
+expand ASR,Automatic Speech Recognition
+expand BP,Back Propagation
+expand CD-GMMs,Context Dependent Gaussian Mixture Models
+expand CER,Character Error Rate
+expand CMVN,Cepstral Mean and Variance Normalization
+expand CNN,Convolutional Neural Network
+expand CRFs,Conditional Random Fields
+expand CTC,Connectionist Temporal Classification
+expand CVCVCV,Consonant-Vowel Consonant-Vowel Consonant-Vowel
+expand DBN,Deep Belief Network
+expand DCT,Discrete Cosine Transform
+expand DFT,Discrete Fourier Transform
+expand DNN,Deep Neural Network
+expand DP,Dynamic Programming
+expand DTW,Dynamic Time Warping
+expand EM,Expectation Maximization
+expand FFT,Fast Fourier Transform
+expand FLMs,Factored Language Models
+expand GIS,Geographical Information System
+expand GMM,Gaussian Mixture Model
+expand GPUs,Graphics Processing Units
+expand HMM Hidden Markov Model
+expand HM-SVMs,hidden Markov support vector machines
+expand HVS,Hidden Vector State
+expand ICF,International Classification of functionality Disability and Health
+expand ICT,Information and Communication Technol
+expand IDE,Integrated/Interactive Development Environment
+expand IRM,Information Request Module
+expand IT,Information Technology
+expand KRM,Knowledge Representation Module
+expand LDA,Linear Discriminant Analysis
+expand LM,Language Model
+expand LPC,Linear Predictive Coding
+expand LVCSR,Large Vocabulary Continuous Speech Recognition
+expand MFCC,Mel-frequency Cepstral Coefficient
+expand MLLR,Maximum Likelihood Linear Regression
+expand MLLT,maximum likelihood linear transformation
+expand MLPs,Multilayer Perceptrons
+expand MMSE.Minimum Mean Square Error
+expand MS,Minimum Statistics
+expand MSE,Mean Square Error
+expand NCCF,Normalized Cross-Correlation Function
+expand OCNNs,Object-Based Convolutional Neural Networks
+expand OOV,Out-Of-Vocabulary
+expand PBL,Problem-Based Learning
+expand PDF,Probability Distribution Function
+expand POS,Part-Of-Speech
+expand SA,Speaker Adaptation
+expand SGD,Stochastic Gradient Descent
+expand SoC,System-on-Chip
+expand SRM,Speech Recognition Module
+expand SS,Spectral Subtraction
+expand STSA,Short Time Spectral Amplitude
+expand SVD,Singular Value Decomposition
+expand TDD,Time Division Duplex
+expand TTS,Text to Speech
+expand VHRI,Very High-Resolution Imagery
+expand VoWSN,Voice Wireless Sensor Networks
+expand WC,World Wide Web Consortium
+expand WER,Word Error Rate
+expand WSN,Wireless Sensor Network
+expand WSR,Window Speech Recognition
