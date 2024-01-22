@@ -161,3 +161,97 @@ expand WC,World Wide Web Consortium
 expand WER,Word Error Rate
 expand WSN,Wireless Sensor Network
 expand WSR,Window Speech Recognition
+exapnd,ASGD Asynchronous stochastic gradient descent
+exapnd,ASR Automatic speech recognition
+exapnd,BLSTM Bidirectional long short-term memory
+exapnd,BMMI Boosted maximum mutual information
+exapnd,BPTT Back-propagation through time
+exapnd,BRIR Binaural room impulse response
+exapnd,BSS Blind source separation
+exapnd,BSV Bottleneck speaker vector
+exapnd,CAT Cluster adaptive training
+exapnd,CLDNN Convolutional long short-term memory deep neural network
+exapnd,CLP Complex linear projection
+exapnd,CMLLR Constrained maximum likelihood linear regression
+exapnd,CMN Cepstral mean normalization
+exapnd,CNTK Computational Network Toolkit
+exapnd,CTC Connectionist temporal classification
+exapnd,DLSTM Deep long short-term memory
+exapnd,DOC Damped oscillator coefficient
+exapnd,DS beamformer Delay-and-sum beamformer
+exapnd,FBANK Log mel filterbank
+exapnd,FDLP Frequency-domain linear prediction
+exapnd,fDLR Feature-based discriminative linear regression
+exapnd,FHL Factorized hidden layer
+exapnd,fMLLR Feature space maximum likelihood linear regression
+exapnd,GCC-PHAT Generalized cross-correlation phase transform
+exapnd,GFB Gammatone filterbank
+exapnd,GLSTM Grid long short-term memory
+exapnd,HLSTM Highway long short-term memory
+exapnd,IAF Ideal amplitude filter
+exapnd,ICA Independent component analysis
+exapnd,ILD Interaural level difference
+exapnd,IPD Interaural phase difference
+exapnd,IRM Ideal ratio mask
+exapnd,ITD Interaural time difference
+exapnd,JTL Joint-task learning
+exapnd,KL Kullback–Leibler
+exapnd,KLD Kullback–Leibler divergence
+exapnd,LCMV beamformer Linearly constrained minimum variance beamformer
+exapnd,LHN Linear hidden network
+exapnd,LHUC Learning hidden unit contribution
+exapnd,LIMABEAM Likelihood-maximizing beamforming
+exapnd,LIN Linear input network
+exapnd,LON Linear output network
+exapnd,LSTM Long short-term memory
+exapnd,LSTMP Long short-term memory with projection layer
+exapnd,LVCSR Large-vocabulary continuous speech recognition
+exapnd,MAP Maximum a posteriori
+exapnd,MBR Minimum Bayes risk
+exapnd,MCGMM Multichannel Gaussian mixture model
+exapnd,MCWF MultichannelWiener filter
+exapnd,MC-WSJ-AV MultichannelWall Street Journal audio visual corpus
+exapnd,MESSL Model-based expectation maximization source separation
+exapnd,MLP Multilayer perceptron
+exapnd,MMeDuSA Modulation of medium-duration speech amplitudes
+exapnd,MMI Maximum mutual information
+exapnd,MMSE Minimum mean squared error
+exapnd,MPE Minimum phone error
+exapnd,MTL Multitask learning
+exapnd,MVDR Minimum variance distortionless response
+exapnd,NAB Neural network adaptive beamforming
+exapnd,NaT Noise-aware training
+exapnd,NMC Normalized modulation coefficient
+exapnd,NMF Nonnegative matrix factorization
+exapnd,OMLSA Optimally modified log spectral amplitude
+exapnd,PAC-RNN Prediction–adaptation–correction recurrent neural network
+exapnd,PESQ Perceptual evaluation of speech quality
+exapnd,PLP Perceptual linear prediction
+exapnd,PNCC Power-normalized cepstral coefficients
+exapnd,RASTA RelAtive SpecTrA
+exapnd,RIR Room impulse response
+exapnd,RLSTM Residual long short-term memory
+exapnd,RNN Recurrent neural network
+exapnd,RNNLM Recurrent neural network language model
+exapnd,SAT Speaker-adaptive training
+exapnd,SaT Speaker-aware training
+exapnd,SDR Source-to-distortion ratio
+exapnd,SER Sentence error rate
+exapnd,sMBR State-level minimum Bayes risk
+exapnd,SNR Signal-to-noise ratio
+exapnd,SS Spectral subtraction
+exapnd,STFT Short-time Fourier transformation
+exapnd,STOI Short-time objective intelligibility
+exapnd,SWBD Switchboard
+exapnd,TDNN Time delay neural network
+exapnd,TDOA Time difference of arrival
+exapnd,TRAPS TempoRAl PatternS
+exapnd,TTS Text-to-speech
+exapnd,UBM Universal background model
+exapnd,VAD Voice activity detection
+exapnd,VTLN Vocal tract length normalization
+exapnd,VTS Vector Taylor series
+exapnd,WDAS Weighted delay-and-sum
+exapnd,WFST Weighted finite state transducer
+exapnd,WPE Weighted prediction error
+exapnd,WSJ Wall Street Journal
