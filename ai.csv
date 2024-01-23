@@ -271,3 +271,66 @@ expand KEBN,Knowledge Engineering with Bayesian Networks
 expand QPN,Qualitative Probabilistic Networks
 expand OOBN,Object-Oriented Bayesian Networks
 expand ITS,Intelligent Tutoring System
+expand ADM,Alternating Directions Method
+expand AIC,Akaike Information Criterion
+expand ALM,Augmented Lagrange Multiplier
+expand ARMA,Autoregressive Moving Average
+expand ARMAX,Autoregressive Moving Average with eXogenous input
+expand BIC,Bayesian Information Criterion
+expand BPOD,Balanced Proper Orthogonal Decomposition
+expand DMDc,Dynamic Mode Decomposition with control
+expand CCA,Canonical Correlation Analysis
+expand CFD,Computational Fluid Dynamics
+expand CoSaMP,Compressive Sampling Matching Pursuit
+expand CWT,Continuous Wavelet Transform
+expand DEIM,Discrete Empirical Interpolation Method
+expand DCT,Discrete Cosine Transform
+expand DFT,Discrete Fourier Transform
+expand DMDc,Dynamic Mode Decomposition with control
+expand DNS,Direct Numerical simulation
+expand DWT,Discrete Wavelet Transform
+expand ECOG,Electrocorticography
+expand eDMD,Extended DMD
+expand EIM,Empirical Interpolation Method
+expand EM,Expectation Maximization
+expand EOF,Empirical Orthogonal Function
+expand ERA,Eigensystem Realization Algorithm
+expand ESC,Extremum-Seeking Control
+expand GMM,Gaussian Mixture Model
+expand HAVOK,Hankel Alternative View Of Koopman
+expand JL,Johnson–Lindenstrauss
+expand ICA,Independent Component Analysis
+expand KLT,Karhunen–Loève Transform
+expand LAD,Least Absolute Deviations
+expand LASSO,Least Absolute Shrinkage and Selection Operator
+expand LDA,Linear Discriminant Analysis
+expand LQE,Linear Quadratic Estimator
+expand LQG,Linear Quadratic Gaussian
+expand LQR,Linear Quadratic Regulator
+expand LTI,Linear Time Invariant
+expand MIMO,Multiple input multiple output
+expand MLC,Machine Learning Control
+expand MPE,Missing Point Estimation
+expand mrDMD,Multi-resolution Dynamic Mode Decomposition
+expand NLS,Nonlinear Schrödinger Equation
+expand OKID,Observer Kalman filter Identification
+expand PBH,Popov–Belevitch–Hautus
+expand PCP,Principal Component Pursuit
+expand PDE-FIND,Partial Differential Equation Functional Identification of Nonl11inear Dynamics
+expand PID,Proportional-Integral-Derivative
+expand PIV,Particle Image Velocimetry
+expand RIP,Restricted Isometry Property
+expand rSVD,Randomized SVD
+expand RKHS,Reproducing Kernel Hilbert Space
+expand RNN,Recurrent Neural Network
+expand RPCA,Robust Principal Components Analysis
+expand SGD,Stochastic Gradient Descent
+expand SINDy,Sparse Identification of Nonlinear Dynamics
+expand SISO,Single Input Single Output
+expand SRC,Sparse Representation for Classification
+expand SSA,Singular Spectrum Analysis
+expand STFT,Short Time Fourier Transform
+expand STLS,Sequential Thresholded Least-Squares
+expand SVM,Support Vector Machine
+expand TICA,Time-lagged Independent Component Analysis
+expand VAC,Variational Approach of Conformation
