@@ -1,336 +1,300 @@
 a cyclic digraph,acyclic digraph
+expand ADM,Alternating Directions Method
 expand AE,autoencoder
 expand AFE,advanced front-end
 expand AGI,Artificial General Intelligence
+expand AIC,Akaike Information Criterion
 expand AIR,acoustic impulse response
+expand ALM,Augmented Lagrange Multiplier
 expand ALSD,average localized synchrony detection
-expand ANN,artificial neuarl networks
-expand AUC,are under curve
-expand BFE,Bayesian Feature Enhancement
-expand BFE,Bayesian Prediction Classification
-expand BO,Bayesian Optimization
-expand CAT,cluster adaptive clustering
-expand CDF,cumulative distribution function
-expand CD-DNN-HMM,Context-Dependent Deep Neural Network Hidden Markov Model
-expand CMLLR,constrained maximum likelihood linear regression
-expand CNF,conjunctive normal form
-expand CNN,convolutional neural network
-expand CTF,convolutive transfer function
-expand CV,cross-validation
-expand DAG,Directed Acyclic Graph
-expand DBN,deep belief net
-expand DBSCAN,density-based spatial clustering of applications with noise
-expand DCMM,deep convolutional neural network
-expand DNF,disjunctive normal form
-expand DNN,Deep Neural Networks
-expand DTNN,deep tensor neural networks 
-expand E2E learning,end-to-end learning
-expand ECRAM,Electro-Chemical Random Access Memory
-expand ELKI,Environment for Developing KDD-Applications Supported by Index-Structures
-expand EM, Expectation Maximization
-expand ERM,empirical risk minimization
-expand FNN,Feedforward Neural Network
-expand FT,Feature Transform
-expand GADF,Gramian Angular Difference Field
-expand GAN,generative adversial network
-expand GMM, Gaussian Mixture Model
-expand GMM,Gaussian Mixture Model
-expand GMM-HHMs,Gaussian Mixture Model Hidden Markov Model
-expand GPT-3,Generative Pre-trained Transformer-3
-expand GPT-4,Generative Pre-trained Transformer-4
-expand GPU,Graphics Processing Unit
-expand GRU,gated recurrent unit
-expand HEQ, histogram equalization
-expand HMM,Hidden Markov Model
-expand IDF,Inverse Document Frequency
-expand Kullback-Leibler Divergence
-expand LCMV,linearly constrained minimum variance
-expand LLM,Large Language Model
-expand LMS,least mean square
-expand LOF,local outlier factor
-expand LSTM,long short-term memory
-expand MAP,maximum a posterior
-expand MAPLR,maximum a posterior linear regression
-expand MC,Monte Carlo
-expand MCE,Minimum Classification Error
-expand MCTS,Monte Carlo tree search
-expand ML,machine learning
-expand MLC,multiple-levels per cell
-expand MLNN,message passing neural networks
-expand MLOSS,Machine Learning Open Source Software
-expand MLP,mutlilayer perceptron
-expand MLLR,Maximum Likelihood Linear Regression
-expand MMSE,minimum mean square error
-expand MSE,mean square error
-expand MWE,mean word error
-expand NLP,natural language processing
-expand NP,nondeterministic polynomial time
-expand NTM,Neural Turing Machine
-expand NVM,non-volatile memory
-expand OCR,optical character recognition
-expand OED,Optimal Experimental Design
-expand PAC,Probably Approximately Correct
-expand PDP,Parallel Distributed Processing
-expand RBF,Radial Basis Function
-expand RBM,Restricted Boltzmann Machine
-expand ReLU,rectified linear unit
-expand RL,Reinforcement Learning
-expand RMSprop,root mean square propagation
-expand RNN,recurrent neural network
-expand ROC curve,receiver operating characteristic curve
-expand RWM,Randomized-Weighted-Majority
-expand SFOM,self-organizing feature map
-expand SGD,stochastic gradient descent
-expand SL,supervised learning
-expand SNN,spiking neural network
-expand SOM,self-organizing map
-expand SRM,structural risk minimization
-expand SVM,support vector machine
-expand TF,term frequency
-expand TOC curve,total operating characteristic curve
-expand UAT,Universal Approximation Theorem
-expand VAE,variational autoencoders
-expand VC-dimension,Vapnik-Chervonenkis dimension).
-expand WSL,Windows Subsystem for Linux
-url for Conference on Neural Information Processing Systems,\url{https://neurips.cc/}
-url for MLOSS,\url{https://mloss.org/about/}
-url for whisper,\url{https://github.com/openai/whisper}
-expand OCR,Optical Character Recognition
-expand DSL,Domain Specific Language
 expand AM,Acoustic Model
 expand ANN,Artificial Neural Network
-expand ASR,Automatic Speech Recognition
-expand BP,Back Propagation
-expand CD-GMMs,Context Dependent Gaussian Mixture Models
-expand CER,Character Error Rate
-expand CMVN,Cepstral Mean and Variance Normalization
-expand CNN,Convolutional Neural Network
-expand CRFs,Conditional Random Fields
-expand CTC,Connectionist Temporal Classification
-expand CVCVCV,Consonant-Vowel Consonant-Vowel Consonant-Vowel
-expand DBN,Deep Belief Network
-expand DCT,Discrete Cosine Transform
-expand DFT,Discrete Fourier Transform
-expand DNN,Deep Neural Network
-expand DP,Dynamic Programming
-expand DTW,Dynamic Time Warping
-expand EM,Expectation Maximization
-expand FFT,Fast Fourier Transform
-expand FLMs,Factored Language Models
-expand GIS,Geographical Information System
-expand GMM,Gaussian Mixture Model
-expand GPUs,Graphics Processing Units
-expand HMM Hidden Markov Model
-expand HM-SVMs,hidden Markov support vector machines
-expand HVS,Hidden Vector State
-expand ICF,International Classification of functionality Disability and Health
-expand ICT,Information and Communication Technol
-expand IDE,Integrated/Interactive Development Environment
-expand IRM,Information Request Module
-expand IT,Information Technology
-expand KRM,Knowledge Representation Module
-expand LDA,Linear Discriminant Analysis
-expand LM,Language Model
-expand LPC,Linear Predictive Coding
-expand LVCSR,Large Vocabulary Continuous Speech Recognition
-expand MFCC,Mel-frequency Cepstral Coefficient
-expand MLLR,Maximum Likelihood Linear Regression
-expand MLLT,maximum likelihood linear transformation
-expand MLPs,Multilayer Perceptrons
-expand MMSE.Minimum Mean Square Error
-expand MS,Minimum Statistics
-expand MSE,Mean Square Error
-expand NCCF,Normalized Cross-Correlation Function
-expand OCNNs,Object-Based Convolutional Neural Networks
-expand OOV,Out-Of-Vocabulary
-expand PBL,Problem-Based Learning
-expand PDF,Probability Distribution Function
-expand POS,Part-Of-Speech
-expand SA,Speaker Adaptation
-expand SGD,Stochastic Gradient Descent
-expand SoC,System-on-Chip
-expand SRM,Speech Recognition Module
-expand SS,Spectral Subtraction
-expand STSA,Short Time Spectral Amplitude
-expand SVD,Singular Value Decomposition
-expand TDD,Time Division Duplex
-expand TTS,Text to Speech
-expand VHRI,Very High-Resolution Imagery
-expand VoWSN,Voice Wireless Sensor Networks
-expand WC,World Wide Web Consortium
-expand WER,Word Error Rate
-expand WSN,Wireless Sensor Network
-expand WSR,Window Speech Recognition
+expand ARMA,Autoregressive Moving Average
+expand ARMAX,Autoregressive Moving Average with eXogenous input
 expand ASGD,Asynchronous Stochastic Gradient Descent
 expand ASR,Automatic Speech Recognition
+expand ASR,Automatic Speech Recognition
+expand AUC,Area Under Curve
+expand BFE,Bayesian Feature Enhancement
+expand BPC,Bayesian Prediction Classification
+expand BIC,Bayesian Information Criterion
 expand BLSTM,Bidirectional Long Short-Term Memory
 expand BMMI,Boosted Maximum Mutual Information
+expand BN,Bayesian Network
+expand BO,Bayesian Optimization
+expand BP,Back Propagation
+expand BPOD,Balanced Proper Orthogonal Decomposition
+expand BPP,Bayesian Poker Player
 expand BPTT,Back-Propagation Through Time
 expand BRIR,Binaural Room Impulse Response
 expand BSS,Blind Source Separation
 expand BSV,Bottleneck Speaker Vector
 expand CAT,Cluster Adaptive Training
+expand CCA,Canonical Correlation Analysis
+expand CD-DNN-HMM,Context-Dependent Deep Neural Network Hidden Markov Model
+expand CD-GMMs,Context Dependent Gaussian Mixture Models
+expand CDF,Cumulative Distribution Function
+expand CER,Character Error Rate
+expand CFD,Computational Fluid Dynamics
 expand CLP,Complex Linear Projection
 expand CMLLR,Constrained Maximum Likelihood Linear Regression
 expand CMN,Cepstral Mean Normalization
+expand CMVN,Cepstral Mean and Variance Normalization
+expand CNF,conjunctive normal form
+expand CNN,Convolutional Neural Network
 expand CNTK,Computational Network Toolkit
-expand CTC,Connectionist Temporal Classification
-expand DLSTM,Deep Long Short-Term Memory
-expand DOC,Damped Oscillator Coefficient
-expand FDLP,Frequency-Domain Linear Prediction
-expand fDLR,Feature-based Discriminative Linear Regression
-expand FHL,Factorized Hidden Layer
-expand fMLLR Feature space maximum likelihood linear regression
-expand GCC-PHAT,Generalized Cross-Correlation Phase Transform
-expand GFB,Gammatone Filterbank
-expand GLSTM,Grid Long Short-Term Memory
-expand HLSTM,Highway Long Short-term Memory
-expand IAF,Ideal Amplitude Filter
-expand ICA,Independent Component Analysis
-expand ILD,Interaural Level Difference
-expand IPD,Interaural Phase Difference
-expand IRM,Ideal Ratio Mask
-expand ITD,Interaural Time Difference
-expand JTL,Joint-Task Learning
-expand KL,Kullback–Leibler
-expand KLD,Kullback–Leibler Divergence
-expand LCMV,Linearly Constrained Minimum Variance
-expand LHN,Linear Hidden Network
-expand LHUC,Learning Hidden Unit Contribution
-expand LIN,Linear Input Network
-expand LON,Linear Output Network
-expand LSTM,Long Short-Term Memory
-expand LSTMP,Long Short-term Memory with Projection layer
-expand LVCSR,Large-Vocabulary Continuous Speech Recognition
-expand MAP,Maximum A Posteriori
-expand MBR,Minimum Bayes Risk
-expand MCGMM,Multi-channel Gaussian Mixture Model
-expand MCWF, Multi-channel Wiener Filter
-expand MC-WSJ-AV,Multi-channel Wall Street Journal Audio Visual corpus
-expand MESSL,Model-based Expectation Maximization Source Separation and Localization
-expand MLP,Multilayer Perceptron
-expand MMeDuSA,Modulation of Medium-Duration Speech Amplitudes
-expand MMI,Maximum Mutual Information
-expand MMSE,Minimum Mean Squared Error
-expand MPE,Minimum Phone Error
-expand MTL,Multitask Learning
-expand MVDR,Minimum Variance Distortionless Response
-expand NAB,Neural network Adaptive Beamforming
-expand NaT,Noise-aware Training
-expand NMC,Normalized Modulation Coefficient
-expand NMF,Nonnegative Matrix Factorization
-expand OMLSA,Optimally Modified Log Spectral amplitude
-expand PAC-RNN,Prediction–Adaptation–Correction Recurrent Neural Network
-expand PESQ,Perceptual Evaluation of Speech Quality
-expand PLP,Perceptual Linear Prediction
-expand PNCC,Power-Normalized Cepstral Coefficients
-expand RASTA,RelAtive SpecTrA
-expand RIR,Room Impulse Response
-expand RLSTM,Residual Long Short-Term Memory
-expand RNN,Recurrent Neural Network
-expand RNNLM,Recurrent neural network language model
-expand SAT,Speaker-Adaptive Training
-expand SDR,Source-to-Distortion Ratio
-expand SER,Sentence Error Rate
-expand SMBR,State-level Minimum Bayes Risk
-expand SNR,Signal-to-Noise Ratio
-expand SS,Spectral Subtraction
-expand STFT,Short-Time Fourier Transformation
-expand STOI,Short-Time Objective Intelligibility
-expand SWBD,Switchboard
-expand TDNN,Time Delay Neural Network
-expand TDOA,Time Difference Of Arrival
-expand TRAPS,TempoRAl PatternS
-expand TTS,Text-to-speech
-expand UBM,Universal Background Model
-expand VAD,Voice Activity Detection
-expand VTLN,Vocal Tract Length Normalization
-expand VTS,Vector Taylor series
-expand WDAS,Weighted Delay-And-Sum
-expand WFST,Weighted Finite State Transducer
-expand WPE,Weighted Prediction Error
-expand BN,Bayesian Network
-expand CPT,Conditional Probability Table
-expand I-map,Independence-map
-expand D-map,Dependence-map
-expand LS,Logic Sampling
-expand LW,Likelihood Weighting
-expand MPE,Most Probable Explanation
-expand EU,Expected Utility
-expand EB,Expected Benefit
-expand DBN,Dynamic Bayesian Network
-expand DDN,Dynamic Decision Network
-expand BPP,Bayesian Poker Player
-expand EW,Expected Winnings
-expand NAG,Nice Argument Generator
-expand MML,Minimum Message Length
-expand MDL,Minimum Description Length
-expand TOM,Totally Ordered Model
-expand GA,Genetic Algorithm
-expand KEBN,Knowledge Engineering with Bayesian Networks
-expand QPN,Qualitative Probabilistic Networks
-expand OOBN,Object-Oriented Bayesian Networks
-expand ITS,Intelligent Tutoring System
-expand ADM,Alternating Directions Method
-expand AIC,Akaike Information Criterion
-expand ALM,Augmented Lagrange Multiplier
-expand ARMA,Autoregressive Moving Average
-expand ARMAX,Autoregressive Moving Average with eXogenous input
-expand BIC,Bayesian Information Criterion
-expand BPOD,Balanced Proper Orthogonal Decomposition
-expand DMDc,Dynamic Mode Decomposition with control
-expand CCA,Canonical Correlation Analysis
-expand CFD,Computational Fluid Dynamics
 expand CoSaMP,Compressive Sampling Matching Pursuit
+expand CPT,Conditional Probability Table
+expand CRFs,Conditional Random Fields
+expand CTC,Connectionist Temporal Classification
+expand CTF,convolutive transfer function
+expand CV,cross-validation
+expand CVCVCV,Consonant-Vowel Consonant-Vowel Consonant-Vowel
 expand CWT,Continuous Wavelet Transform
-expand DEIM,Discrete Empirical Interpolation Method
+expand D-map,Dependence-map
+expand DAG,Directed Acyclic Graph
+expand DBN,Deep Belief Network
+expand DBN,Dynamic Bayesian Network
+expand DBSCAN,density-based spatial clustering of applications with noise
+expand DCMM,deep convolutional neural network
 expand DCT,Discrete Cosine Transform
+expand DDN,Dynamic Decision Network
+expand DEIM,Discrete Empirical Interpolation Method
 expand DFT,Discrete Fourier Transform
+expand DLSTM,Deep Long Short-Term Memory
 expand DMDc,Dynamic Mode Decomposition with control
+expand DNF,disjunctive normal form
+expand DNN,Deep Neural Network
+expand DNNs,Deep Neural Networks
 expand DNS,Direct Numerical simulation
+expand DOC,Damped Oscillator Coefficient
+expand DP,Dynamic Programming
+expand DSL,Domain Specific Language
+expand DTNN,deep tensor neural networks 
+expand DTW,Dynamic Time Warping
 expand DWT,Discrete Wavelet Transform
+expand E2E learning,end-to-end learning
+expand EB,Expected Benefit
 expand ECOG,Electrocorticography
+expand ECRAM,Electro-Chemical Random Access Memory
 expand eDMD,Extended DMD
 expand EIM,Empirical Interpolation Method
+expand ELKI,Environment for Developing KDD-Applications Supported by Index-Structures
 expand EM,Expectation Maximization
 expand EOF,Empirical Orthogonal Function
 expand ERA,Eigensystem Realization Algorithm
+expand ERM,empirical risk minimization
 expand ESC,Extremum-Seeking Control
+expand EU,Expected Utility
+expand EW,Expected Winnings
+expand FDLP,Frequency-Domain Linear Prediction
+expand fDLR,Feature-based Discriminative Linear Regression
+expand FFT,Fast Fourier Transform
+expand FHL,Factorized Hidden Layer
+expand FLMs,Factored Language Models
+expand fMLLR Feature space maximum likelihood linear regression
+expand FNN,Feedforward Neural Network
+expand FT,Feature Transform
+expand GA,Genetic Algorithm
+expand GADF,Gramian Angular Difference Field
+expand GAN,generative adversial network
+expand GCC-PHAT,Generalized Cross-Correlation Phase Transform
+expand GFB,Gammatone Filterbank
+expand GIS,Geographical Information System
+expand GLSTM,Grid Long Short-Term Memory
 expand GMM,Gaussian Mixture Model
+expand GMM-HHMs,Gaussian Mixture Model Hidden Markov Model
+expand GPT-3,Generative Pre-trained Transformer-3
+expand GPT-4,Generative Pre-trained Transformer-4
+expand GPU,Graphics Processing Unit
+expand GPUs,Graphics Processing Units
+expand GRU,Gated Recurrent Unit
 expand HAVOK,Hankel Alternative View Of Koopman
-expand JL,Johnson–Lindenstrauss
+expand HEQ,Histogram Equalization
+expand HLSTM,Highway Long Short-term Memory
+expand HM-SVMs,hidden Markov support vector machines
+expand HMM Hidden Markov Model
+expand HMM,Hidden Markov Model
+expand HVS,Hidden Vector State
+expand I-map,Independence-map
+expand IAF,Ideal Amplitude Filter
 expand ICA,Independent Component Analysis
+expand ICF,International Classification of Functionality Disability and Health
+expand ICT,Information and Communication Technology
+expand IDE,Integrated/Interactive Development Environment
+expand IDF,Inverse Document Frequency
+expand ILD,Interaural Level Difference
+expand IPD,Interaural Phase Difference
+expand IRM,Ideal Ratio Mask
+expand IRM,Information Request Module
+expand IT,Information Technology
+expand ITD,Interaural Time Difference
+expand ITS,Intelligent Tutoring System
+expand JL,Johnson–Lindenstrauss
+expand JTL,Joint-Task Learning
+expand KEBN,Knowledge Engineering with Bayesian Networks
+expand KL,Kullback–Leibler
+expand KLD,Kullback–Leibler Divergence
 expand KLT,Karhunen–Loève Transform
+expand KRM,Knowledge Representation Module
 expand LAD,Least Absolute Deviations
 expand LASSO,Least Absolute Shrinkage and Selection Operator
+expand LCMV,Linearly Constrained Minimum Variance
 expand LDA,Linear Discriminant Analysis
+expand LHN,Linear Hidden Network
+expand LHUC,Learning Hidden Unit Contribution
+expand LIN,Linear Input Network
+expand LLM,Large Language Model
+expand LM,Language Model
+expand LMS,least mean square
+expand LOF,local outlier factor
+expand LON,Linear Output Network
+expand LPC,Linear Predictive Coding
 expand LQE,Linear Quadratic Estimator
 expand LQG,Linear Quadratic Gaussian
 expand LQR,Linear Quadratic Regulator
+expand LS,Logic Sampling
+expand LSTM,Long Short-Term Memory
+expand LSTMP,Long Short-term Memory with Projection layer
 expand LTI,Linear Time Invariant
+expand LVCSR,Large Vocabulary Continuous Speech Recognition
+expand LW,Likelihood Weighting
+expand MAP,Maximum A Posteriori
+expand MAPLR,maximum a posterior linear regression
+expand MBR,Minimum Bayes Risk
+expand MC,Monte Carlo
+expand MC-WSJ-AV,Multi-channel Wall Street Journal Audio Visual corpus
+expand MCE,Minimum Classification Error
+expand MCGMM,Multi-channel Gaussian Mixture Model
+expand MCTS,Monte Carlo tree search
+expand MCWF,Multi-channel Wiener Filter
+expand MDL,Minimum Description Length
+expand MESSL,Model-based Expectation Maximization Source Separation and Localization
+expand MFCC,Mel-frequency Cepstral Coefficient
 expand MIMO,Multiple input multiple output
+expand ML,machine learning
 expand MLC,Machine Learning Control
+expand MLLR,Maximum Likelihood Linear Regression
+expand MLLT,Maximum Likelihood Linear Transformation
+expand MLNN,message passing neural networks
+expand MLOSS,Machine Learning Open Source Software
+expand MLP,Multilayer Perceptron
+expand MLPs,Multilayer Perceptrons
+expand MMeDuSA,Modulation of Medium-Duration Speech Amplitudes
+expand MMI,Maximum Mutual Information
+expand MML,Minimum Message Length
+expand MMSE,minimum mean square error
+expand MPE,Minimum Phone Error
 expand MPE,Missing Point Estimation
+expand MPE,Most Probable Explanation
 expand mrDMD,Multi-resolution Dynamic Mode Decomposition
+expand MS,Minimum Statistics
+expand MSE,Mean Square Error
+expand MTL,Multitask Learning
+expand MVDR,Minimum Variance Distortionless Response
+expand MWE,Mean Word Error
+expand NAB,Neural network Adaptive Beamforming
+expand NAG,Nice Argument Generator
+expand NaT,Noise-aware Training
+expand NCCF,Normalized Cross-Correlation Function
+expand NLP,natural language processing
 expand NLS,Nonlinear Schrödinger Equation
+expand NMC,Normalized Modulation Coefficient
+expand NMF,Nonnegative Matrix Factorization
+expand NP,nondeterministic polynomial time
+expand NTM,Neural Turing Machine
+expand NVM,non-volatile memory
+expand OCNNs,Object-Based Convolutional Neural Networks
+expand OCR,Optical Character Recognition
+expand OED,Optimal Experimental Design
 expand OKID,Observer Kalman filter Identification
+expand OMLSA,Optimally Modified Log Spectral amplitude
+expand OOBN,Object-Oriented Bayesian Networks
+expand OOV,Out-Of-Vocabulary
+expand PAC,Probably Approximately Correct
+expand PAC-RNN,Prediction–Adaptation–Correction Recurrent Neural Network
 expand PBH,Popov–Belevitch–Hautus
+expand PBL,Problem-Based Learning
 expand PCP,Principal Component Pursuit
 expand PDE-FIND,Partial Differential Equation Functional Identification of Nonl11inear Dynamics
+expand PDF,Probability Distribution Function
+expand PDP,Parallel Distributed Processing
+expand PESQ,Perceptual Evaluation of Speech Quality
 expand PID,Proportional-Integral-Derivative
 expand PIV,Particle Image Velocimetry
+expand PLP,Perceptual Linear Prediction
+expand PNCC,Power-Normalized Cepstral Coefficients
+expand POS,Part-Of-Speech
+expand QPN,Qualitative Probabilistic Networks
+expand RASTA,RelAtive SpecTrA
+expand RBF,Radial Basis Function
+expand RBM,Restricted Boltzmann Machine
+expand ReLU,rectified linear unit
 expand RIP,Restricted Isometry Property
-expand rSVD,Randomized SVD
+expand RIR,Room Impulse Response
 expand RKHS,Reproducing Kernel Hilbert Space
+expand RL,Reinforcement Learning
+expand RLSTM,Residual Long Short-Term Memory
+expand RMSprop,root mean square propagation
 expand RNN,Recurrent Neural Network
+expand RNNLM,Recurrent neural network language model
+expand ROC curve,receiver operating characteristic curve
 expand RPCA,Robust Principal Components Analysis
+expand rSVD,Randomized SVD
+expand RWM,Randomized-Weighted-Majority
+expand SA,Speaker Adaptation
+expand SAT,Speaker-Adaptive Training
+expand SDR,Source-to-Distortion Ratio
+expand SER,Sentence Error Rate
+expand SFOM,self-organizing feature map
 expand SGD,Stochastic Gradient Descent
 expand SINDy,Sparse Identification of Nonlinear Dynamics
 expand SISO,Single Input Single Output
+expand SL,supervised learning
+expand SMBR,State-level Minimum Bayes Risk
+expand SNN,spiking neural network
+expand SNR,Signal-to-Noise Ratio
+expand SoC,System-on-Chip
+expand SOM,Self-Organizing Map
 expand SRC,Sparse Representation for Classification
+expand SRM,Speech Recognition Module
+expand SRM,structural risk minimization
+expand SS,Spectral Subtraction
 expand SSA,Singular Spectrum Analysis
 expand STFT,Short Time Fourier Transform
 expand STLS,Sequential Thresholded Least-Squares
+expand STOI,Short-Time Objective Intelligibility
+expand STSA,Short Time Spectral Amplitude
+expand SVD,Singular Value Decomposition
 expand SVM,Support Vector Machine
+expand SWBD,Switchboard
+expand TDD,Time Division Duplex
+expand TDNN,Time Delay Neural Network
+expand TDOA,Time Difference Of Arrival
+expand TF,Term Frequency
 expand TICA,Time-lagged Independent Component Analysis
+expand TOC curve,Total Operating Characteristic Curve
+expand TOM,Totally Ordered Model
+expand TRAPS,TempoRAl PatternS
+expand TTS,Text-to-speech
+expand UAT,Universal Approximation Theorem
+expand UBM,Universal Background Model
 expand VAC,Variational Approach of Conformation
+expand VAD,Voice Activity Detection
+expand VAE,variational autoencoders
+expand VC-dimension,Vapnik-Chervonenkis dimension).
+expand VHRI,Very High-Resolution Imagery
+expand VoWSN,Voice Wireless Sensor Networks
+expand VTLN,Vocal Tract Length Normalization
+expand VTS,Vector Taylor series
+expand WC,World Wide Web Consortium
+expand WDAS,Weighted Delay-And-Sum
+expand WER,Word Error Rate
+expand WFST,Weighted Finite State Transducer
+expand WPE,Weighted Prediction Error
+expand WSL,Windows Subsystem for Linux
+expand WSN,Wireless Sensor Network
+expand WSR,Window Speech Recognition
+url for Conference on Neural Information Processing Systems,\url{https://neurips.cc/}
+url for MLOSS,\url{https://mloss.org/about/}
+url for whisper,\url{https://github.com/openai/whisper}
