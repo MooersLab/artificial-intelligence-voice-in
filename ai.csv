@@ -13,7 +13,6 @@ expand ARMA,Autoregressive Moving Average
 expand ARMAX,Autoregressive Moving Average with eXogenous input
 expand ASGD,Asynchronous Stochastic Gradient Descent
 expand ASR,Automatic Speech Recognition
-expand ASR,Automatic Speech Recognition
 expand AUC,Area Under Curve
 expand BFE,Bayesian Feature Enhancement
 expand BIC,Bayesian Information Criterion
