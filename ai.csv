@@ -118,7 +118,7 @@ expand HEQ,Histogram Equalization
 expand HLSTM,Highway Long Short-term Memory
 expand HM-SVMs,hidden Markov support vector machines
 expand HMC,Hamiltonian Monte Carlo
-expand HMM Hidden Markov Model
+expand HMM, Hidden Markov Model
 expand HVS,Hidden Vector State
 expand I-map,Independence-map
 expand i.i.d., Independent and identically distributed
