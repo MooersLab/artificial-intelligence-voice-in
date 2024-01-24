@@ -47,30 +47,30 @@ expand CoSaMP,Compressive Sampling Matching Pursuit
 expand CPT,Conditional Probability Table
 expand CRFs,Conditional Random Fields
 expand CTC,Connectionist Temporal Classification
-expand CTF,convolutive transfer function
-expand CV,cross-validation
+expand CTF,Convolutive Transfer Function
+expand CV,Cross-Validation
 expand CVCVCV,Consonant-Vowel Consonant-Vowel Consonant-Vowel
 expand CWT,Continuous Wavelet Transform
 expand D-map,Dependence-map
 expand DAG,Directed Acyclic Graph
 expand DBN,Deep Belief Network
 expand DBN,Dynamic Bayesian Network
-expand DBSCAN,density-based spatial clustering of applications with noise
-expand DCMM,deep convolutional neural network
+expand DBSCAN,Density-Based Spatial Clustering of Applications with Noise
+expand DCMM,Deep Convolutional Neural Network
 expand DCT,Discrete Cosine Transform
 expand DDN,Dynamic Decision Network
 expand DEIM,Discrete Empirical Interpolation Method
 expand DFT,Discrete Fourier Transform
 expand DLSTM,Deep Long Short-Term Memory
 expand DMDc,Dynamic Mode Decomposition with control
-expand DNF,disjunctive normal form
+expand DNF,Disjunctive Normal Form
 expand DNN,Deep Neural Network
 expand DNNs,Deep Neural Networks
 expand DNS,Direct Numerical simulation
 expand DOC,Damped Oscillator Coefficient
 expand DP,Dynamic Programming
 expand DSL,Domain Specific Language
-expand DTNN,deep tensor neural networks 
+expand DTNN,Deep Tensor Neural Networks 
 expand DTW,Dynamic Time Warping
 expand DWT,Discrete Wavelet Transform
 expand E2E learning,end-to-end learning
@@ -146,8 +146,9 @@ expand LHUC,Learning Hidden Unit Contribution
 expand LIN,Linear Input Network
 expand LLM,Large Language Model
 expand LM,Language Model
-expand LMS,least mean square
-expand LOF,local outlier factor
+expand LMS,Least Mean Square
+ex[and LTI,Linear Time Invariant
+expand LOF,Local Outlier Factor
 expand LON,Linear Output Network
 expand LPC,Linear Predictive Coding
 expand LQE,Linear Quadratic Estimator
@@ -260,6 +261,7 @@ expand SRC,Sparse Representation for Classification
 expand SRM,Speech Recognition Module
 expand SRM,structural risk minimization
 expand SS,Spectral Subtraction
+exapnd SSM,State Space Model
 expand SSA,Singular Spectrum Analysis
 expand STFT,Short Time Fourier Transform
 expand STLS,Sequential Thresholded Least-Squares
