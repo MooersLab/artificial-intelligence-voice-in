@@ -109,6 +109,7 @@ expand GMM,Gaussian Mixture Model
 expand GMM-HHMs,Gaussian Mixture Model Hidden Markov Model
 expand GPT-3,Generative Pre-trained Transformer-3
 expand GPT-4,Generative Pre-trained Transformer-4
+expand GPR,Gaussian Process Regression
 expand GPU,Graphics Processing Unit
 expand GPUs,Graphics Processing Units
 expand GRU,Gated Recurrent Unit
