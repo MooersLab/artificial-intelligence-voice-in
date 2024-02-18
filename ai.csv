@@ -47,6 +47,7 @@ expand CoSaMP,Compressive Sampling Matching Pursuit
 expand CPD,Conditonal Probability Distribution
 expand CPT,Conditional Probability Table
 expand CRFs,Conditional Random Fields
+expand CRNN,chemical reaction neural network
 expand CTC,Connectionist Temporal Classification
 expand CTF,Convolutive Transfer Function
 expand CV,Cross-Validation
@@ -76,6 +77,7 @@ expand DTNN,deep tensor neural networks
 expand DTW,Dynamic Time Warping
 expand DWT,Discrete Wavelet Transform
 expand E2E,end-to-end
+expand e/acc,effective accelerationism
 expand EB,Empirical Bayes or Expected Benefit
 expand ECOG,Electrocorticography
 expand ECRAM,Electro-Chemical Random Access Memory
@@ -114,6 +116,7 @@ expand GPU,Graphics Processing Unit
 expand GPUs,Graphics Processing Units
 expand GRU,Gated Recurrent Unit
 expand HAVOK,Hankel Alternative View Of Koopman
+expand HDMR,High Dimensional Model Representation
 expand HEQ,Histogram Equalization
 expand HLSTM,Highway Long Short-term Memory
 expand HM-SVMs,hidden Markov support vector machines
@@ -213,6 +216,8 @@ expand NLP,natural language processing
 expand NLS,Nonlinear Schrödinger Equation
 expand NMC,Normalized Modulation Coefficient
 expand NMF,Nonnegative Matrix Factorization
+exapnd NN,neuarl network
+expand NN-RS,neural network response surface
 expand NP,nondeterministic polynomial time
 expand NTM,Neural Turing Machine
 expand NVM,non-volatile memory
@@ -237,6 +242,7 @@ expand PDP,Parallel Distributed Processing
 expand PESQ,Perceptual Evaluation of Speech Quality
 expand PGM,Probabilistic Graphical Model
 expand PID,Proportional-Integral-Derivative
+expand PINNS,Physics Informed Neural Networks
 expand PIV,Particle Image Velocimetry
 expand PLP,Perceptual Linear Prediction
 expand pmf,Probability Mass Function
@@ -245,6 +251,8 @@ expand PNLL,Penalized NLL
 expand POS,Part-Of-Speech
 expand psd,Positive definite (matrix)
 expand QPN,Qualitative Probabilistic Networks
+expand QML,quantum machine learning
+expand QSSA,quasi-steady-state assumption
 expand RASTA,RelAtive SpecTrA
 expand RBF,Radial Basis Function
 expand RBM,Restricted Boltzmann Machine
@@ -301,6 +309,8 @@ expand TOC curve,Total Operating Characteristic Curve
 expand TOM,Totally Ordered Model
 expand TRAPS,TempoRAl PatternS
 expand TTS,Text-to-speech
+expand UM,uncertainty minimization
+expand UQ,uncertainty quantification
 expand UAT,Universal Approximation Theorem
 expand UBM,Universal Background Model
 expand VAC,Variational Approach of Conformation
