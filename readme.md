@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=artificial-intelligence-voice-in=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=artificial-intelligence-voice-in&message=0.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -35,7 +35,7 @@ See [Voice Computing section of landing page](https://github.com/MooersLab/Mooer
 
 ## Rules for developing voice commands
 
-### Pick word combinations rarely used in normal prose
+### Pick word combinations rarely used in ordinary prose
 The basic rule for developing a voice command is to pick a word combination that is very unlikely to be used in one's prose.
 This choice can avoid the accidental insertion of an unintended set of words.
 
@@ -44,9 +44,16 @@ If you pick a word combination with a subset of words already assigned to anothe
 It is better to pick a synonym for the new command than include the old one.
 
 ### Use verbs are prefaces
-I use the verb `insert` in front of the name of the computer code or equation that I want to insert.
+I use the verb `insert` before the name of the computer code or equation I want to insert.
 I use the verb `expand` to expand acronyms.
 I use `url` to insert a URL.
 
 ## Status
 Ready to use but still under development.
+
+## Sources of funding
+
+- NIH: R01 CA242845
+- NIH: R01 AI088011
+- NIH: P30 CA225520 (PI: R. Mannel)
+- NIH P20GM103640 and P30GM145423 (PI: A. West)
