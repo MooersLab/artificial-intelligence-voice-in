@@ -277,6 +277,7 @@ expand RVM,Relevance Vector Machine
 expand RWM,Randomized-Weighted-Majority
 expand SA,Speaker Adaptation
 expand SAT,Speaker-Adaptive Training
+expand SD,Stable Diffusion
 expand SDR,Source-to-Distortion Ratio
 expand SER,Sentence Error Rate
 expand SFOM,self-organizing feature map
@@ -316,8 +317,9 @@ expand UQ,uncertainty quantification
 expand UAT,Universal Approximation Theorem
 expand UBM,Universal Background Model
 expand VAC,Variational Approach of Conformation
+expand VAE,Variational Auto Encoder
 expand VAD,Voice Activity Detection
-expand VAE,Variational Autoencoders
+expand VAE,Variational Autoencoder
 expand VB,Variational Bayes
 expand VC-dimension,Vapnik-Chervonenkis dimension).
 expand VHRI,Very High-Resolution Imagery
