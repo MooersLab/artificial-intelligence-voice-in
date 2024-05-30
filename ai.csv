@@ -254,6 +254,7 @@ expand psd,Positive definite (matrix)
 expand QPN,Qualitative Probabilistic Networks
 expand QML,quantum machine learning
 expand QSSA,quasi-steady-state assumption
+expand RAG,Retrieval Augmented Generation
 expand RASTA,RelAtive SpecTrA
 expand RBF,Radial Basis Function
 expand RBM,Restricted Boltzmann Machine
