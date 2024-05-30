@@ -37,6 +37,7 @@ expand CDF,Cumulative Distribution Function
 expand CER,Character Error Rate
 expand CFD,Computational Fluid Dynamics
 expand CLP,Complex Linear Projection
+expand CLIP,Contrastive Language–Image Pre-training
 expand CMLLR,Constrained Maximum Likelihood Linear Regression
 expand CMN,Cepstral Mean Normalization
 expand CMVN,Cepstral Mean and Variance Normalization
