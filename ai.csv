@@ -3,6 +3,7 @@ expand ADM,Alternating Directions Method
 expand AE,autoencoder
 expand AFE,advanced front-end
 expand AGI,Artificial General Intelligence
+expand AI,Artificial Intelligence
 expand AIC,Akaike Information Criterion
 expand AIR,acoustic impulse response
 expand ALM,Augmented Lagrange Multiplier
@@ -14,12 +15,14 @@ expand ARMAX,Autoregressive Moving Average with eXogenous input
 expand ASGD,Asynchronous Stochastic Gradient Descent
 expand ASR,Automatic Speech Recognition
 expand AUC,Area Under Curve
+expand BC,Betweeness Centrality
 expand BFE,Bayesian Feature Enhancement
 expand BIC,Bayesian Information Criterion
 expand BIF,Bayesian Interchange Format
 expand BLSTM,Bidirectional Long Short-Term Memory
 expand BMMI,Boosted Maximum Mutual Information
 expand BN,Bayesian Network
+expand BNN,Biological Neural Network
 expand BO,Bayesian Optimization
 expand BP,Back Propagation
 expand BPC,Bayesian Prediction Classification
@@ -31,6 +34,7 @@ expand BSS,Blind Source Separation
 expand BSV,Bottleneck Speaker Vector
 expand CAT,Cluster Adaptive Training
 expand CCA,Canonical Correlation Analysis
+expand CCNN,Cell Complex Neural Network
 expand CD-DNN-HMM,Context-Dependent Deep Neural Network Hidden Markov Model
 expand CD-GMMs,Context Dependent Gaussian Mixture Models
 expand CDF,Cumulative Distribution Function
@@ -64,6 +68,7 @@ expand DCT,Discrete Cosine Transform
 expand DDN,Dynamic Decision Network
 expand DEIM,Discrete Empirical Interpolation Method
 expand DFT,Discrete Fourier Transform
+expand DL,Deep Learning
 expand DLSTM,Deep Long Short-Term Memory
 expand DMDc,Dynamic Mode Decomposition with control
 expand DML,Deep Metric learning
@@ -74,9 +79,10 @@ expand DNS,Direct Numerical simulation
 expand DOC,Damped Oscillator Coefficient
 expand DP,Dynamic Programming
 expand DSL,Domain Specific Language
+expand DSR,Deep Symbolic Regression
 expand DTNN,deep tensor neural networks 
 expand DTW,Dynamic Time Warping
-exapnd DVR,Digital Voice Recorder
+expand DVR,Digital Voice Recorder
 expand DWT,Discrete Wavelet Transform
 expand E2E,end-to-end
 expand e/acc,effective accelerationism
@@ -84,6 +90,7 @@ expand EB,Empirical Bayes or Expected Benefit
 expand ECOG,Electrocorticography
 expand ECRAM,Electro-Chemical Random Access Memory
 expand eDMD,Extended DMD
+expand EC,Eigenvector Centrality
 expand EIM,Empirical Interpolation Method
 expand ELKI,Environment for Developing KDD-Applications Supported by Index-Structures
 expand EM,Expectation Maximization
@@ -104,18 +111,22 @@ expand FT,Feature Transform
 expand GA,Genetic Algorithm
 expand GADF,Gramian Angular Difference Field
 expand GAN,generative adversial network
+expand GAT,Graph Attention Neural Network
 expand GCC-PHAT,Generalized Cross-Correlation Phase Transform
+expand GDL,Geometric Deep Learning
 expand GFB,Gammatone Filterbank
 expand GIS,Geographical Information System
 expand GLM,Generalized Linear Model
 expand GLSTM,Grid Long Short-Term Memory
 expand GMM,Gaussian Mixture Model
 expand GMM-HHMs,Gaussian Mixture Model Hidden Markov Model
+expand GNN,Graph Neural Network
 expand GPT-3,Generative Pre-trained Transformer-3
 expand GPT-4,Generative Pre-trained Transformer-4
 expand GPR,Gaussian Process Regression
 expand GPU,Graphics Processing Unit
 expand GPUs,Graphics Processing Units
+expand GRNN,Gated Recurrent Neural Network
 expand GRU,Gated Recurrent Unit
 expand HAVOK,Hankel Alternative View Of Koopman
 expand HDMR,High Dimensional Model Representation
@@ -123,7 +134,8 @@ expand HEQ,Histogram Equalization
 expand HLSTM,Highway Long Short-term Memory
 expand HM-SVMs,hidden Markov support vector machines
 expand HMC,Hamiltonian Monte Carlo
-expand HMM, Hidden Markov Model
+expand HMM,Hidden Markov Model
+expand HOF,Higher Order Function
 expand HVS,Hidden Vector State
 expand I-map,Independence-map
 expand i.i.d., Independent and identically distributed
@@ -163,6 +175,7 @@ expand LM,Language Model
 expand LMS,Least Mean Square
 expand LOF,Local Outlier Factor
 expand LON,Linear Output Network
+expand LP,Link Prediction
 expand LPC,Linear Predictive Coding
 expand LQE,Linear Quadratic Estimator
 expand LQG,Linear Quadratic Gaussian
