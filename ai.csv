@@ -349,6 +349,12 @@ expand WPE,Weighted Prediction Error
 expand WSL,Windows Subsystem for Linux
 expand WSN,Wireless Sensor Network
 expand WSR,Window Speech Recognition
+expand RDM,Research Data Management
+expand GRP,Good Research Practice
+expand PIDs,persistent identifiers
+expand SaaS,Software as a Service
+expand DMP,Data Management Plan
+expand SOP,Standard Operating Procedures
 url for Conference on Neural Information Processing Systems,\url{https://neurips.cc/}
 url for MLOSS,\url{https://mloss.org/about/}
 url for whisper,\url{https://github.com/openai/whisper}
