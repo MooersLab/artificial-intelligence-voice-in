@@ -21,7 +21,7 @@ See the Voice In plug-in documentation to learn how to configure keyboard shortc
 
 ## Installation
 Each command is paired with the inserted text on a single line in a comma-separated value file (ai.csv).
-You can use the **bulk add** button in Voice In Plus to upload these commands to your custom command collection.
+You can upload these commands to your custom command collection using the **bulk add** button in Voice In Plus.
 
 ## Contents of the library ai.csv
 
