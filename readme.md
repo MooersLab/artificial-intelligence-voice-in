@@ -1,4 +1,4 @@
-![Version](https://img.shields.io/static/v1?label=artificial-intelligence-voice-in&message=0.1&color=brightcolor)
+![Version](https://img.shields.io/static/v1?label=artificial-intelligence-voice-in&message=0.1.1&color=brightcolor)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
 
@@ -9,7 +9,7 @@ This repo contains voice commands about artificial intelligence for the speech r
 The utilization of these custom commands requires a subscription to Voice In Plus.
 These commands can be used in the text area of most websites opened in Google Chrome.
 They can be used during the dictation of manuscripts about artificial intelligence.
-This topic includes inside its envelope the topics of machine learning and deep learning.
+This topic includes the topics of machine learning and deep learning inside its scope.
 Some of the commands including equations that are represented as LaTeX math.
 These short snippets of LaTeX are recognized and rendered correctly by most markdown typesetting languages, including org-mode, an enhanced form of Markdown best used inside Emacs.
 
@@ -50,6 +50,13 @@ I use `url` to insert a URL.
 
 ## Status
 Ready to use but still under development.
+
+## Update history
+
+|Version      | Changes                                                                                                                                    | Date                 |
+|:-----------:|:------------------------------------------------------------------------------------------------------------------------------------------:|:--------------------:|
+| Version 0.1.1 |   Added update table.   Modified wording in README.md                                                                                    | 2024 June 28         |
+
 
 ## Sources of funding
 
