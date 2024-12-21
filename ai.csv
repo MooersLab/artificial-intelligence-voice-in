@@ -170,6 +170,7 @@ expand LHN,Linear Hidden Network
 expand LHS,Left hand side (of an equation)
 expand LHUC,Learning Hidden Unit Contribution
 expand LIN,Linear Input Network
+expand lisp,LISt Processor
 expand LLM,Large Language Model
 expand LM,Language Model
 expand LMS,Least Mean Square
